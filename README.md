@@ -4,7 +4,7 @@ This is a basic C# project with a simple functionality. Below are the steps to s
 ## Requirements
 
 - .NET SDK (version 7.0 or higher)
-- Code editor (e.g., Visual Studio, Visual Studio Code)
+- Code editor (e.g., Visual Studio, Visual Studio Code.)
 
 ## Setup
 
