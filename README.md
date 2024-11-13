@@ -29,7 +29,7 @@ dotnet run
 
 You can pull and run it on any machine that has Docker installed.
 ```bash
-docker push kevinseya/languaje-csharp-app:latest
+docker pull kevinseya/languaje-csharp-app:latest
 
 docker run -p 80:80 kevinseya/languaje-csharp-app:latest
 ```
